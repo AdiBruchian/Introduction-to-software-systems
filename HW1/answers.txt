@@ -1,0 +1,8 @@
+1. Manually performing this process would take a magnitude of several hours, and the reliablilty of the performance would be debatable for 
+it is highly likely the human eye would miss several recurrances of the wanted names.
+
+2.In this exercise we learned to implement automization while searching for specific information. This is highly useful for any need of searching through vast amounts of data in any desired prospect.
+
+3.We would need to activate some sort of clock that would trigger our script every hour.
+Whether by an outside source or internally in the script there would be some timer that when an hour passes activates our code.
+To give a solution to the problem of reading through past articles the answer would be to give a boolean flag "read" or "not read" to each article. when an answer is read we change the flag accordingly and when reading the articles we check said flag beforehand.

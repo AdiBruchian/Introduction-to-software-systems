@@ -1,0 +1,7 @@
+1.
+We recycled some parts of code by a considerable amount, this could have been avoided\improved by creating one place which holds all of the recycled code
+and the other functions could just call up the needed code from the same place. A database of some sort.
+
+2.
+ Yes. we can see that when you genarate random grades, the average grade is approximately 50 - similar to the expectation of a uniform distribution.
+Also, making a histogram with 100 bins shows that the probability of receiving a grade is uniformly distributed.
